@@ -1,8 +1,12 @@
 ## Hello there❗ 
 
-![hello-there](https://github.com/user-attachments/assets/ad7a9ae9-d5e3-47d4-8005-b0fd7368ae49)
-![hello-there-2](https://github.com/user-attachments/assets/65e3ebc1-e402-4c8c-8ec2-2814203260fe)
-![hello-there-3](https://github.com/user-attachments/assets/72616e16-a45e-406a-a2f6-d22cc5fba600)
+<center>
+
+  ![hello-there](https://github.com/user-attachments/assets/ad7a9ae9-d5e3-47d4-8005-b0fd7368ae49)  
+  ![hello-there-2](https://github.com/user-attachments/assets/65e3ebc1-e402-4c8c-8ec2-2814203260fe)  
+  ![hello-there-3](https://github.com/user-attachments/assets/72616e16-a45e-406a-a2f6-d22cc5fba600)  
+
+</center>
 
 <!--
 **MrISH/MrISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
